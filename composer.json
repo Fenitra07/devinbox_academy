@@ -1,0 +1,9 @@
+{
+    "name": "www-deploy/pos-api",
+    "license": "proprietary",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "stripe/stripe-php": "^7.89"
+    }
+}

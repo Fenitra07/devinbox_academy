@@ -1,0 +1,13 @@
+- Liens eny ambany rehetra : Ireo services hafa
+- Searchbar
+- Session destroy
+
+***************EVOLUTION*************
+- Click sur chaque formation pour ouvrir le détail + syllabus + vidéo
+- S'identifier
+
+***************TRAVAIL DE FOND*************
+- GitHub, GitLab, Heroku : mila manao vidéo
+- Formulaire pour blog : Photo, thématique, Titre de la publication,
+contenu, Auteur, date de publication.
+
