@@ -425,10 +425,10 @@
                                 <div class="footer-tittle">
                                     <h4>Nos autres services</h4>
                                     <ul>
-                                        <li><a href="">Devinbox Academy</a></li>
-                                        <li><a href="">Web Development</a></li>
-                                        <li><a href="">Web hosting</a></li>
-                                        <li><a href="">Mass email marketing</a></li>
+                                        <li><a target="_blank" href="https://devinboxacademy.dev-inbox.com">Devinbox Academy</a></li>
+                                        <li><a target="_blank" href="https://pricing.dev-inbox.com">Web Development</a></li>
+                                        <li><a target="_blank" href="https://webhosting.dev-inbox.com">Web hosting</a></li>
+                                        <li><a target="_blank" href="https://massmailing.dev-inbox.com">Mass email marketing</a></li>
                                     </ul>
                                 </div>
                             </div>

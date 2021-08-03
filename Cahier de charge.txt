@@ -11,3 +11,16 @@
 - Formulaire pour blog : Photo, thématique, Titre de la publication,
 contenu, Auteur, date de publication.
 
+
+***************NOM DES DOMAINES*************
+Web development :
+https://pricing.dev-inbox.com
+
+Web hosting :
+https://webhosting.dev-inbox.com
+
+Mass mailing :
+https://massmailing.dev-inbox.com
+
+Devinbox Academy :
+https://devinboxacademy.dev-inbox.com
