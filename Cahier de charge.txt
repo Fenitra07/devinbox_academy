@@ -1,4 +1,3 @@
-- Liens eny ambany rehetra : Ireo services hafa
 - Searchbar
 - Session destroy
 
